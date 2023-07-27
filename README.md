@@ -1,14 +1,16 @@
 ## How can I install and use this?
-0. Read the in [in-depth tutorial](https://my-tailwind-nextjs-starter-blog.vercel.app/blog/how-to-use-tiktodv3-tiktok-script-python) about how to set up this script if you have little to no knowledge in coding.
+0. Watch the tutorial: https://youtu.be/xPEZBK1SaUk
 1. Git-clone this repo & change directory
 
-   <pre>git clone https://github.com/kangoka/tiktodv3.git</pre>
-   <pre>cd tiktodv3</pre>
+   <pre>git clone https://github.com/Ashwin-Iyer1/tiktodv4.git</pre>
+   <pre>cd tiktodv4</pre>
 2. Install modules using pip:
    <pre>pip install -r requirements.txt</pre>
 3. Make sure you have Google Chrome installed
 4. Run the .py file!
-   <pre>python tiktodv3.py</pre>
+   <pre>python tiktodv4.py</pre>
+   
+   **You will get "error trying again" when it runs because it is waiting for the timer. If it goes on for more than 4 minutes then please make an issue request.
 
 ## Note
 The first recaptcha has to be completed manually.
@@ -20,3 +22,11 @@ The first recaptcha has to be completed manually.
 1. Thanks to https://zefoy.com/ for providing an amazing free service.
 2. Everyone who recommended ketuy.
 3. XxB1a for majorly improving tiktodv3
+4. Ashwin-Iyer1 for majorly improving tiktodv4
+
+## Currently working on 🚧
+1. Fixing the timer
+2. Fixing likes bot
+3. Fixing followers bot
+4. Fixing counter for shares and views
+5. Make Favorites Bot
